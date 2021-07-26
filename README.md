@@ -6,7 +6,7 @@ This repository is dedicated to our project of showcasing a data Visualisation r
 
 ## GitHub Page
 
-[Data visualisation](https://anja-dhnd.github.io/restaurant-css-framework/index.html)
+[Data visualisation](https://alain17-web.github.io/js-dataVisualisation-challenge/)
 
 ## Instructions
 
