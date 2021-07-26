@@ -7,6 +7,8 @@ This repository is dedicated to our project of showcasing a data Visualisation r
 ## GitHub Page
 
 [Data visualisation](https://alain17-web.github.io/js-dataVisualisation-challenge/)
+<img width="989" alt="screenshot" src="https://user-images.githubusercontent.com/60004408/127004461-489fb439-a8f9-43b1-8a18-51b10e9d9304.png">
+
 
 ## Instructions
 
